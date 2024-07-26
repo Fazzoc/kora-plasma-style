@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "animationc8@gmail.com",
+                "Name": "Fazzoc"
+            }
+        ],
+        "Category": "",
+        "Description": "Kora-dark Plasma Style Fork",
+        "EnabledByDefault": true,
+        "Id": "kora-dark",
+        "License": "LGPL",
+        "Name": "Kora-dark",
+        "Version": "0.2"
+    },
+    "X-Plasma-API": "5.0"
+}
+
